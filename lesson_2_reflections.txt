@@ -30,3 +30,10 @@ it in the diagram the way we do?
 A: The result is that now there is one branch with all the changes those
 branches had. We represent it that way because all the commits belongs to the
 same branch.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+A: The pros of the automatic merging are that you don't need to check all code
+to know what is new, the cons are that you can't select what thing to merge
+when a conflict appears 
