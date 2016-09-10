@@ -5,3 +5,15 @@ A: It starts to track the changes of the files
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: It is differente because the staging area is the area where you put the things you want to reflect the changes you had made. It offers you flexibility
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: Using git diff and git diff --staged, to know what are the things that are changing.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: When you need to try a new experimental feature that you don't know if is working, or a new language.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: Because you actually see where is each commit
