@@ -1,4 +1,12 @@
-Q: When would you want to use a remote repository rather than keeping all your work local?
+Q: When would you want to use a remote repository rather than keeping all your
+work local?
 
-A: When you are not working on your computer and want to do some work without cloning the repository. Or to make a change
-you don't want in your computer at that moment.
+A: When you are not working on your computer and want to do some work without
+cloning the repository. Or to make a change you don't want in your computer at
+that moment.
+
+Q: Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+A: Because, maybe there is a problem on the repository and you are not working
+on it, or you don't want to see a new feature until you finish your work.
