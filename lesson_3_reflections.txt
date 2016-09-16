@@ -1,0 +1,4 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A: When you are not working on your computer and want to do some work without cloning the repository. Or to make a change
+you don't want in your computer at that moment.
