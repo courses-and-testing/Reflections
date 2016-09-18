@@ -10,3 +10,10 @@ automatically stay up-to-date with your remote repository?
 
 A: Because, maybe there is a problem on the repository and you are not working
 on it, or you don't want to see a new feature until you finish your work.
+
+Q: Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+A: I would use fork to work in someone else's project where I don't have
+permission to work, clone on my repositories and branch when I want to do
+something in my own repository like an experiment.
