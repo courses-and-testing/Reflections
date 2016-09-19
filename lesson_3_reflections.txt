@@ -17,3 +17,8 @@ use one instead of another?
 A: I would use fork to work in someone else's project where I don't have
 permission to work, clone on my repositories and branch when I want to do
 something in my own repository like an experiment.
+
+Q: What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+A: To know what is in the remote and merge if you need to.
