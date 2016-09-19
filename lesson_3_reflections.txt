@@ -27,3 +27,10 @@ Q: How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 
 A: Sending the code by email, or using a cloud. Nothing is easier.
+
+Q: When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+A: When I'm workin in a feature that I don't want to be in production yet. The
+benefits from that are that I don't touch the master branch to introduce
+experimental things.
