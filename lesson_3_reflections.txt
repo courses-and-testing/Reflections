@@ -22,3 +22,8 @@ Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 A: To know what is in the remote and merge if you need to.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+A: Sending the code by email, or using a cloud. Nothing is easier.
